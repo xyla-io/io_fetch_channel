@@ -1,0 +1,4 @@
+pandas
+git+ssh://git@github.com/xyla-io/hazel.git@io-map#egg=hazel
+git+ssh://git@github.com/xyla-io/heathcliff.git@io-map#egg=heathcliff
+git+ssh://git@github.com/xyla-io/azrael.git@io-map#egg=azrael
